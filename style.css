@@ -1,0 +1,124 @@
+img {height:200px;
+  margin:10px;
+  border-radius:50px}
+footer {font-family:monospace;
+  background-image: url('bg.jpg');
+padding-bottom:40px;
+border-radius:20px}
+body {background-image: url('bg.jpg');}
+header{background-image: url('bg.jpg');
+border-radius:10px}
+#head {background-image: url('bg.jpg');
+  text-align:center;
+font-family:Cursive,Brush Script MT;
+  font-size:20px;
+  border-radius:100px;
+  max-width:500px;
+  margin:auto}
+#navigation {max-width:500px;
+  background-image: url('bg.jpg');
+margin:auto;
+padding:auto;
+  border-radius:20px;
+  text-align:center}
+.menu{display:flex;
+  background-image: url('bg.jpg');
+  gap:100px;
+  justify-content:center;
+  list-style:none;
+font-family:Cursive,Brush Script MT}
+#content {max-width:800px;
+margin-top:50px;
+flex-direction:column;
+gap:0px 10px;
+margin:auto;
+align-items:center;
+text-align:center;
+background-image: url('bg.jpg');
+border-radius:30px;
+font-family:Cursive,Brush Script MT;
+  padding:10px}
+#content p {font-size:15px}
+#content h5 {font-size:20px}
+#content h6{font-size:20px}
+#navigation img{height:50px}
+#navigation {padding-right:20px}
+#content img {
+  display: flex;
+  align-items: center;
+  gap: 20px}
+.card{
+  display:flex;
+  align-items:center;
+  gap:20px;
+  margin:auto;
+  margin-bottom:20px;
+  background-image: url('bg.jpg');
+  border:5px solid #406e40;
+  border-radius:16px;
+  padding:20px;
+  width:700px;
+}
+
+.rank{
+  width:50px;
+  height:50px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border:3px solid #406e40;
+  border-radius:10px;
+  font-size:20px;
+  color:white;
+}
+
+.level-img{
+  width:190px;
+  height:110px;
+  object-fit:cover;
+  border-radius:8px;
+}
+
+.info{
+  flex:1;
+  color:white;
+}
+
+.author{
+  color:#406e40;
+  margin-top:5px;
+}
+
+.tags{
+  margin-top:8px;
+}
+
+.tags span{
+  background:#3e783f;
+  color:#6ab86c;
+  padding:4px 10px;
+  border-radius:6px;
+  font-size:12px;
+  margin-right:6px;
+}
+
+.score{
+  color:#2cff7a;
+  font-size:22px;
+  font-weight:bold;
+}
+.video iframe {border-radius:10px}
+.button {
+  display:flex;
+  flex-direction:column;
+  margin:auto;
+  background:#699c5f;
+  padding:10px;
+  border-radius:15px;
+  border:3px solid #294024;
+  background-image: url('bg.jpg');
+}
+#navigation {
+  display:flex;
+  
+}
